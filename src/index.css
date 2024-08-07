@@ -1,4 +1,4 @@
-/* :root {
+:root {
   --color-bg-dark: #f5f5f5;
   --color-bg: #fdfffd;
   --color-grey: #d1d1d1;
@@ -83,4 +83,4 @@ button {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: var(--color-accent);
-} */
+}
